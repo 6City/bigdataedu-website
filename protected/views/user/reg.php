@@ -1,0 +1,1 @@
+<?php echo $this->renderPartial('_reg', array('model'=>$model)); ?>
